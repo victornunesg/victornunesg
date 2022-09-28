@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hello, I’m @victornunesg <br>
+👀 I’m a Front-End Developer <br>
+🌱 I’m currently learning HTML, CSS and JavaScript <br>
+💞️ I’m looking to collaborate on developing new projects with friends <br>
+📫 How to reach me: through GitHub (github.com/victornunesg) or LinkedIn: (linkedin.com/in/victorngomes/) <br>
