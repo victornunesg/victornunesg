@@ -2,7 +2,7 @@
 
 <br>
 
-🖱️ I am interested in Phyton <br>
+🖱️ I am interested in Python <br>
 💻 I am learning JavaScript and I have knowledge in HTML and CSS <br>
 👀 I am looking to collaborate on developing new projects with friends <br>
 
