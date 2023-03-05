@@ -1,8 +1,8 @@
-### 👋 Hello guys, my name is Victor and I develop for the web!
+### 👋 Hello guys, my name is Victor and I am a back-end developer!
 
 <br>
 
-🖱️ I am interested in Phyton
+🖱️ I am interested in Phyton <br>
 💻 I am learning JavaScript and I have knowledge in HTML and CSS <br>
 👀 I am looking to collaborate on developing new projects with friends <br>
 
